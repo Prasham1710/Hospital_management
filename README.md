@@ -1,3 +1,4 @@
+
 #  Hospital Management System
 
 This application provides a comprehensive solution for managing patient registration, appointments, doctor listings, available services, and data modification in a hospital setting.
@@ -25,3 +26,4 @@ This application provides a comprehensive solution for managing patient registra
 - Python 3.x
 - MySQL Connector/Python
 - Tkinter (included in Python standard library)
+![image](https://github.com/Prasham1710/Hospital_management/assets/92637965/5032d321-ff17-42a0-8cfe-6ed6148103a3)
